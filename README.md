@@ -1,6 +1,6 @@
-<p>A functional <i>clone</i> of the social media app Instagram.</p>
+<p>A functional <b>clone</b> of the social media app Instagram.</p>
 
-<p><i>Features</i> learned and used in this project:</p>
+<p><b>Features</b> learned and used in this project:</p>
 
 <ul>
   <li>working on AWS</li>
